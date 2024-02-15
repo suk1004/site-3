@@ -1,0 +1,38 @@
+footer{
+  width:100vw;
+  height:200px;
+  background-color:#333;
+}
+.footer_content{
+  width:1400px;
+  height:inherit;
+  color:#ccc;
+  font-size:14px;
+  margin:auto;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.ft_logo{margin-bottom:10px;}
+.ft_logo span{
+  font-size:50px;
+  color:#fff;
+  font-style:italic;
+  font-weight:500;
+}
+.ft1 b{
+  font-weight:normal;
+}
+.ft2{
+  text-align:right;
+  line-height:25px; 
+}
+.ft2 ul{
+  display:flex;
+  justify-content:flex-end;
+}
+.ft2 ul li img{
+  width:40px;
+  height:40px;
+  margin:20px 5px 0;
+}
